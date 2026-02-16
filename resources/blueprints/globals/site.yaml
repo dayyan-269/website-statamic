@@ -1,0 +1,11 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: nama_situs
+            field:
+              type: text
+              display: 'Nama Situs'
